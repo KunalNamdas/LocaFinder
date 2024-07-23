@@ -12,6 +12,11 @@ LocaFinder is a versatile Python tool for geographic and location-based queries.
 6. **Visualize location on map**: Enter the name of a place to generate a map with the location marked.
 7. **Fetch weather information**: Enter the name of a place to fetch current weather information.
 
+![IPShifter Screenshot](./image2.png)
+![IPShifter Screenshot](./image1.png)
+![IPShifter Screenshot](./image3.png)
+
+
 ## Requirements
 
 - Python 3.x
