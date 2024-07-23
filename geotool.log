@@ -1,0 +1,67 @@
+2024-07-22 19:19:42,477 - Calculated distance between shegoan and khamgoan
+2024-07-22 19:20:13,925 - Calculated distance between pune  and mumbai
+2024-07-22 19:20:58,264 - Calculated distance between Shegaon and Khamgaon
+2024-07-22 19:31:31,899 - Queried place: anand sagar shegaon
+2024-07-22 19:32:11,119 - Calculated distance between Shegaon and Khamgaon
+2024-07-22 20:01:39,072 - Queried place: Shegoan
+2024-07-22 20:01:47,675 - Queried place: Shegaon
+2024-07-22 20:09:11,746 - Queried place: Shegaon
+2024-07-22 20:09:51,416 - Queried zip code: 444203
+2024-07-22 20:12:23,480 - Queried place: pune
+2024-07-22 20:23:35,033 - Queried place: Shegoan
+2024-07-22 20:23:54,068 - Queried zip code: 444203
+2024-07-23 09:18:56,683 - Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'ReadTimeoutError("HTTPSConnectionPool(host='nominatim.openstreetmap.org', port=443): Read timed out. (read timeout=1)")': /search?q=shegaon&format=json&limit=1&accept-language=en
+2024-07-23 09:18:58,023 - Queried place: shegaon
+2024-07-23 09:35:56,910 - Queried place: Shegaon
+2024-07-23 09:46:40,990 - Queried zip code: 444203
+2024-07-23 09:52:55,493 - Calculated distance between Shegaon and Khamgaon
+2024-07-23 11:23:41,726 - Queried place: Shegaon
+2024-07-23 11:24:39,059 - Queried zip code: 444230
+2024-07-23 11:24:46,853 - Queried zip code: 444203
+2024-07-23 11:25:09,672 - Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'ReadTimeoutError("HTTPSConnectionPool(host='nominatim.openstreetmap.org', port=443): Read timed out. (read timeout=1)")': /reverse?lat=20.7053471&lon=76.5669716&format=json&accept-language=en&addressdetails=1
+2024-07-23 11:25:11,941 - Calculated distance between Khamgaon and Shegaon
+2024-07-23 11:49:44,866 - Queried place: shegaon
+2024-07-23 11:49:45,788 - Queried place: khamgaon
+2024-07-23 11:57:01,295 - Queried place: shegaon
+2024-07-23 11:57:30,377 - Queried zip code: 444203
+2024-07-23 11:59:50,672 - Queried place: Shegoan
+2024-07-23 11:59:59,471 - Queried place: shegaon
+2024-07-23 12:00:25,276 - Queried zip code: 444203
+2024-07-23 12:01:31,529 - Queried zip code: 444203
+2024-07-23 12:03:42,397 - Queried zip code: 444203
+2024-07-23 12:05:56,442 - Queried zip code: 444203
+2024-07-23 12:06:18,351 - Queried zip code: 444203
+2024-07-23 12:07:01,873 - Queried place: shegaon
+2024-07-23 12:07:47,543 - Queried zip code: 444203
+2024-07-23 12:08:10,073 - Calculated distance between shegaon and khamgaon
+2024-07-23 12:08:53,898 - Calculated distance between shegaon and khamgaon
+2024-07-23 12:09:46,430 - Queried place: shegaon
+2024-07-23 12:09:46,838 - Queried place: khamgaon
+2024-07-23 12:10:29,613 - Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'ReadTimeoutError("HTTPSConnectionPool(host='nominatim.openstreetmap.org', port=443): Read timed out. (read timeout=1)")': /search?q=444203&format=json&limit=1
+2024-07-23 12:10:30,671 - Queried zip code: 444203
+2024-07-23 12:10:31,004 - Queried zip code: 444002
+2024-07-23 12:10:48,477 - Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'ReadTimeoutError("HTTPSConnectionPool(host='nominatim.openstreetmap.org', port=443): Read timed out. (read timeout=1)")': /search?q=akola&format=json&limit=1&accept-language=en
+2024-07-23 12:10:49,405 - Queried place: akola
+2024-07-23 12:12:48,906 - Queried place: akola
+2024-07-23 12:14:22,163 - Queried place: shegaon
+2024-07-23 12:15:47,185 - Queried place: shegaon
+2024-07-23 12:16:39,748 - Queried place: shegoan
+2024-07-23 12:16:55,772 - Queried place: 
+2024-07-23 12:17:49,553 - Queried place: shegaon
+2024-07-23 12:18:00,489 - Queried place: dfghj
+2024-07-23 12:24:18,059 - Queried place: shegaon
+2024-07-23 12:28:40,819 - Queried place: shegaon 
+2024-07-23 12:28:47,678 - Queried zip code: 44203
+2024-07-23 12:29:09,796 - Queried zip code: 444203
+2024-07-23 12:29:29,040 - Queried zip code: 444203
+2024-07-23 12:29:48,913 - Queried zip code: 444203
+2024-07-23 12:29:57,105 - Queried place: shegaon
+2024-07-23 12:30:04,580 - Queried zip code: 444203
+2024-07-23 12:30:17,072 - Queried zip code: 444203
+2024-07-23 12:30:33,044 - Queried zip code: 444203
+2024-07-23 12:30:33,560 - Queried zip code: 444002
+2024-07-23 12:30:51,176 - Queried place: akola
+2024-07-23 12:33:15,864 - Queried place: shegaon
+2024-07-23 15:40:27,326 - Queried place: Akola
+2024-07-23 15:41:03,352 - Queried zip code: 444203
+2024-07-23 15:43:23,549 - Queried zip code: 444203
