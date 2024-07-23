@@ -29,7 +29,7 @@ LocaFinder is a versatile Python tool for geographic and location-based queries.
 1. **Clone the repository**:
 
 ```sh
-git clone https://github.com/your-username/LocaFinder.git
+git clone https://github.com/kunalnamdas/LocaFinder.git
 cd LocaFinder
 ```
 
